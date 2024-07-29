@@ -66,10 +66,10 @@
   - Integrates seamlessly with MySQL.
 
 - **Spring Batch**:
-  - Used for batch processing tasks, such as periodic data synchronization and reporting.
+  - Used for batch processing tasks, such as listing multiple products for sale at once.
 
 - **MySQL Database**:
-  - Stores user data, product information, orders, and discount codes.
+  - Stores user data, product information, orders, wishlists, and discount codes.
   - Ensures data integrity and supports complex queries.
 
 ## Security:
